@@ -1,4 +1,4 @@
-package com.cognizant.country_service;
+package com.cognizant.countryservice.model;
 
 public class Country {
     private String code;
